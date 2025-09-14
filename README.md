@@ -29,10 +29,10 @@ View blogs with images and descriptions
 ## ScreenShots
 
 ### HomePage
-<img src="public/images/homepage.png" alt="Homepage Screenshot" width="500"/>
+<img src="public/images/HomePage.png" alt="Homepage Screenshot" width="500"/>
 
 ### ArchivePage
-<img src="public/images/Archivepage.png" alt="Homepage Screenshot" width="500"/>
+<img src="public/images/ArchivePage.png" alt="Homepage Screenshot" width="500"/>
 
 ### BlogView
 <img src="public/images/SingleBlog.png" alt="Homepage Screenshot" width="500"/>
