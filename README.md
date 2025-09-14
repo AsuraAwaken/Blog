@@ -37,3 +37,4 @@ View blogs with images and descriptions
 ### BlogView
 <img src="public/images/SingleBlog.png" alt="Homepage Screenshot" width="500"/>
 
+.
